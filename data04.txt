@@ -1,0 +1,7 @@
+Calculated wavelength (nm)
+N	color	first order	second order	averaged
+1	violet	441.93	445.82	443.87
+2	blue	469.17	474.13	471.65
+3	green	498.35	504.46	501.40
+4	yellow	584.45	589.32	586.89
+

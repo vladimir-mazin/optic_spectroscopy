@@ -1,0 +1,5 @@
+N	color	theta1	theta2	theta3	theta4	lambda
+1	violet	12.195	12.51	12.42	12.195	435.8328
+2	green	15.795	15.95	15.95	15.795	546.073
+3	yellow	16.74	16.695	16.605	16.695	579.066
+

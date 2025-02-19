@@ -1,0 +1,7 @@
+Helium. Diffraction angles with the prism
+N	color	lambda	alfa	arg in rad	n
+1	violet	443.87	50.6250	0.9654	1.6445
+2	blue	471.65	50.0400	0.9603	1.6387
+3	green	501.40	49.5450	0.9560	1.6337
+4	yellow	586.89	48.4650	0.9465	1.6228
+

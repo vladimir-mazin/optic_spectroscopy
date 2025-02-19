@@ -1,0 +1,7 @@
+Helium. First order peaks
+N	color	theta1	theta2	theta
+1	violet	7.765	7.785	7.775
+2	blue	8.325	8.19	8.2575
+3	green	8.775	8.775	8.775
+4	yellow	10.305	10.308	10.3065
+
